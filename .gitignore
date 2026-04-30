@@ -1,0 +1,16 @@
+# Ejecutables
+*.exe
+*.res
+
+# Temporales de compilación
+*.o
+*.ppu
+*.compiled
+*.bak
+
+# Carpetas generadas
+backup/
+lib/
+
+# Configuración del IDE
+*.lps

@@ -46,5 +46,6 @@ Puedes ejecutar el proyecto de dos formas:
 Si prefieres compilar desde la línea de comandos, usa:
 ```bash
 fpc project1.lpr
+```
 ---
 *Desarrollado para la materia de Algoritmos - UTN.*
